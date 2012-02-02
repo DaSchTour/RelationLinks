@@ -36,6 +36,13 @@ $messages['de'] = array(
 	'relationlinks-desc' => 'Fügt im Headerbereich versteckte Navigationslinks hinzu, die für die Navigation wie auch für die Suchmaschinenoptimierung genutzt werden können',
 );
 
+/** Lower Sorbian (Dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'relationlinks-desc' => 'Pśidawa wótkaze z pomocu "link rel" do głowy dokumenta, kótarež daju seo za nawigaciju a optiměrowanje pytawow wužywaś',
+);
+
 /** French (Français)
  * @author Gomoko
  */
