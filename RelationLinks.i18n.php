@@ -29,6 +29,13 @@ $messages['ast'] = array(
 	'relationlinks-desc' => 'Amiesta enllaces de rellación a la testera, que se pue usar pa la navegación y pa les referencies',
 );
 
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+ * @author Wizardist
+ */
+$messages['be-tarask'] = array(
+	'relationlinks-desc' => 'Дадае тэг link rel у сэкцыю header для навігацыі і SEO',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  */
