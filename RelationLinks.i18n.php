@@ -64,6 +64,13 @@ $messages['gl'] = array(
 	'relationlinks-desc' => 'Engade unha ligazón ligada á cabeceira que se pode empregar para a navegación e para as referencias',
 );
 
+/** Hebrew (עברית)
+ * @author Amire80
+ */
+$messages['he'] = array(
+	'relationlinks-desc' => 'הוספת link rel לכותרת שאפשר להשתמש בו לניווט ולמיטוב תוצאות חיפוש',
+);
+
 /** Upper Sorbian (Hornjoserbsce)
  * @author Michawiki
  */
