@@ -113,6 +113,13 @@ $messages['nl'] = array(
 	'relationlinks-desc' => 'Voegt "link rel" toe aan de header, wat gebruikt kan worden voor navigatie en SEO',
 );
 
+/** Polish (Polski)
+ * @author BeginaFelicysym
+ */
+$messages['pl'] = array(
+	'relationlinks-desc' => 'Dodaje łącze rel do nagłówka, który może używany do nawigacji i SEO',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Dragonòt
