@@ -50,6 +50,13 @@ $messages['dsb'] = array(
 	'relationlinks-desc' => 'Pśidawa wótkaze z pomocu "link rel" do głowy dokumenta, kótarež daju seo za nawigaciju a optiměrowanje pytawow wužywaś',
 );
 
+/** Spanish (Español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'relationlinks-desc' => 'Agrega un enlace ligado al encabezado, que puede utilizado para navegación y para optimización de búsquedas (SEO)',
+);
+
 /** French (Français)
  * @author Gomoko
  */
