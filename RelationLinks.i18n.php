@@ -110,7 +110,7 @@ $messages['lb'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'relationlinks-desc' => 'Додајте релација за врска во заглавието што ќе служи за нагигација и за SEO',
+	'relationlinks-desc' => 'Додајте однос за врска во заглавието што ќе служи за навигација и за SEO',
 );
 
 /** Dutch (Nederlands)
