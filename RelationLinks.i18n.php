@@ -92,6 +92,13 @@ $messages['ia'] = array(
 	'relationlinks-desc' => 'Adde un etiquetta "link rel" al capite, que pote esser usate pro navigation e pro optimisation al motores de recerca',
 );
 
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'relationlinks-desc' => 'ナビゲーションや検索エンジン最適化に使用される link rel をヘッダーに追加する',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
