@@ -17,9 +17,11 @@ $messages['en'] = array(
 	'relationlinks-desc'  => 'Adds link rel to header, that can used for navigation and for SEO',
 );
 
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ * @author Beta16
+ */
 $messages['qqq'] = array(
-	'relationlinks-desc' => 'Description for Special:Version',
+	'relationlinks-desc' => '{{desc}}',
 );
 
 /** Asturian (Asturianu)
@@ -90,6 +92,13 @@ $messages['hsb'] = array(
  */
 $messages['ia'] = array(
 	'relationlinks-desc' => 'Adde un etiquetta "link rel" al capite, que pote esser usate pro navigation e pro optimisation al motores de recerca',
+);
+
+/** Italian (Italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'relationlinks-desc' => "Aggiunge <code>&lt;link rel=... /&gt;</code> all'intestazione, che può essere utilizzato per la navigazione e per SEO",
 );
 
 /** Japanese (日本語)
