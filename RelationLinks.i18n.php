@@ -94,7 +94,7 @@ $messages['ia'] = array(
 	'relationlinks-desc' => 'Adde un etiquetta "link rel" al capite, que pote esser usate pro navigation e pro optimisation al motores de recerca',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
