@@ -108,6 +108,13 @@ $messages['ja'] = array(
 	'relationlinks-desc' => 'ナビゲーションや検索エンジン最適化に使用される link rel をヘッダーに追加する',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'relationlinks-desc' => '탐색과 검색 엔진 최적화를 위해 사용할 수 있는 rel 헤더에 링크를 추가',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
