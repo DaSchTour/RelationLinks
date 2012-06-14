@@ -24,7 +24,7 @@ $messages['qqq'] = array(
 	'relationlinks-desc' => '{{desc}}',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -52,14 +52,14 @@ $messages['dsb'] = array(
 	'relationlinks-desc' => 'Pśidawa wótkaze z pomocu "link rel" do głowy dokumenta, kótarež daju seo za nawigaciju a optiměrowanje pytawow wužywaś',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
 	'relationlinks-desc' => 'Agrega un enlace ligado al encabezado, que puede utilizado para navegación y para optimización de búsquedas (SEO)',
 );
 
-/** French (Français)
+/** French (français)
  * @author Gomoko
  */
 $messages['fr'] = array(
@@ -87,7 +87,7 @@ $messages['hsb'] = array(
 	'relationlinks-desc' => 'Přidawa wotkazy z pomocu "link ref" do hłowy dokumenta, kotrež hodźa so za nawigaciju a optimowanje pytawow wužiwać',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -129,7 +129,7 @@ $messages['lb'] = array(
 	'relationlinks-desc' => "Setzt an den Header Linken derbäi déi fir d'Navigatioun an Optimiséierung vu Suchmaschinne benotzt kënne ginn.",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -143,7 +143,7 @@ $messages['nl'] = array(
 	'relationlinks-desc' => 'Voegt "link rel" toe aan de header, wat gebruikt kan worden voor navigatie en SEO',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author BeginaFelicysym
  */
 $messages['pl'] = array(
