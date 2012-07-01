@@ -31,7 +31,7 @@ $messages['ast'] = array(
 	'relationlinks-desc' => 'Amiesta enllaces de rellación a la testera, que se pue usar pa la navegación y pa les referencies',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Wizardist
  */
 $messages['be-tarask'] = array(
@@ -45,7 +45,7 @@ $messages['de'] = array(
 	'relationlinks-desc' => 'Fügt im Headerbereich versteckte Navigationslinks hinzu, die für die Navigation wie auch für die Suchmaschinenoptimierung genutzt werden können',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -66,7 +66,7 @@ $messages['fr'] = array(
 	'relationlinks-desc' => "Ajoute un lien lié à l'entête, qui peut être utilisé pour la navigation et pour le référencement",
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -80,7 +80,7 @@ $messages['he'] = array(
 	'relationlinks-desc' => 'הוספת link rel לכותרת שאפשר להשתמש בו לניווט ולמיטוב תוצאות חיפוש',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
