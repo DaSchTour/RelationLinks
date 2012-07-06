@@ -158,3 +158,10 @@ $messages['pms'] = array(
 	'relationlinks-desc' => "A gionta na liura relativa a l'antestassion, che a peul esse dovrà për la navigassion e për le sitassion",
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'relationlinks-desc' => 'Nagdaragdag ng kawing na may kaugnayan sa paulo, na magagamit para sa paglilibot at para sa SEO',
+);
+
