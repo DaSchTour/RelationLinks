@@ -27,5 +27,5 @@ $wgExtensionMessagesFiles['RelationLinks'] = $dir . 'RelationLinks.i18n.php';
 
 $wgAutoloadClasses['RelationLinksHooks'] = $dir . 'RelationLinks.hooks.php';
 
-$wgHooks['BeforePageDisplay'][] = 'RelationLinks::addRelationLinks';
+$wgHooks['BeforePageDisplay'][] = 'RelationLinksHooks::addRelationLinks';
 
