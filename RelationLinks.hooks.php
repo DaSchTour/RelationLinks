@@ -1,39 +1,39 @@
 <?php
 class RelationLinksHooks { 
 	function addRelationLinks( &$out, &$sk ) {
-		$rlMainpage = Title::newFromText(wfMsg('Mainpage'));
+		$rlMainpage = Title::newFromText( wfMessage( 'Mainpage' )->text() );
 		$out->addLink( array(
 		  'rel' => 'start',
 		  'type' => 'text/html',
-		  'title' => wfMsg('Mainpage'),
+		  'title' => wfMessage( 'Mainpage' )->text(),
 		  'href' => $rlMainpage->getLocalURL(),
 		) );
-		$rlHelppage = Title::newFromText(wfMsg('Helppage'));
+		$rlHelppage = Title::newFromText( wfMessage( 'Helppage' )->text() );
 		$out->addLink( array(
 		  'rel' => 'help',
 		  'type' => 'text/html',
-		  'title' => wfMsg('Helppage'),
+		  'title' => wfMessage( 'Helppage' )->text(),
 		  'href' => $rlHelppage->getLocalURL(),
 		) );
-		$rlAllpages = Title::newFromText(wfMsg('Allpages'));
+		$rlAllpages = Title::newFromText( wfMessage( 'Allpages' )->text() );
 		$out->addLink( array(
 		  'rel' => 'index',
 		  'type' => 'text/html',
-		  'title' => wfMsg('Allpages'),
+		  'title' => wfMessage( 'Allpages' )->text(),
 		  'href' => $rlAllpages->getLocalURL(),
 		) );
-		$rlSearch = Title::newFromText(wfMsg('Search'));
+		$rlSearch = Title::newFromText( wfMessage( 'Search' )->text() );
 		$out->addLink( array(
 		  'rel' => 'search',
 		  'type' => 'text/html',
-		  'title' => wfMsg('Search'),
+		  'title' => wfMessage( 'Search' )->text(),
 		  'href' => $rlSearch->getLocalURL(),
 		) );
 		$rlNamespace = $out->getTitle()->getNsText();
 		if ( strlen($rlNamespace) > 1 ) {
 			$rlNamespace = $rlNamespace . ':';
 		}
-		$rlSupPage = Title::newFromText($rlNamespace.$out->getTitle()->getBaseText());
+		$rlSupPage = Title::newFromText( $rlNamespace.$out->getTitle()->getBaseText() );
 		$out->addLink( array(
 		  'rel' => 'up',
 		  'type' => 'text/html',
